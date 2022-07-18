@@ -29,7 +29,7 @@ There are a few things that stand out in this table, as expected, there are fewe
 
 In addition to the analysis by City Type we conducted an analysis of Total Fare by City Type for a four month period in the beginning of 2019. The chart below shows the analysis on a weekly basis for the first four months of the year.
 
-![summary_graph](./analysis/Pyber_fare_summary.PNG)
+![summary_graph](https://github.com/kkoehn8/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 
 When reviewing the mulitple-line chart there are a couple of things that jump out:
  - Generally there are some similarities between the City types - for example, from a lower total fare at the beginning of January, all show a peak just before March
